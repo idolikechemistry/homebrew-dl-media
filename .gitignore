@@ -1,0 +1,40 @@
+# =========================
+# macOS 系統檔案
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# =========================
+# 編輯器與 IDE 暫存檔
+# =========================
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# Vim / Emacs
+*~
+*.swp
+*.swo
+*.swn
+.netrwhist
+
+# =========================
+# Ruby 相關 (預防萬一)
+# =========================
+*.gem
+*.rbc
+.bundle/
+vendor/bundle/
