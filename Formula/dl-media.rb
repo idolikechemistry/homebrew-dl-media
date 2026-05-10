@@ -2,10 +2,10 @@ class DlMedia < Formula
   desc "Media downloader and muxer (Built with Rust)"
   homepage "https://github.com/idolikechemistry/dl-media"
   
-  url "https://github.com/idolikechemistry/dl-media/releases/download/v/dl-media-mac-arm64"
-  version ""
+  url "https://github.com/idolikechemistry/dl-media/releases/download/v0.2.5/dl-media-mac-arm64"
+  version "0.2.5"
   
-  sha256 "207bd4791f842eef665c6895b248b3d84a78ed7f4a9f3a4abfb9b86eeeba38b1"
+  sha256 "7668870bd007d11a4ec2199e9df9955daf7a87718d3f2942ad806d5a25f7ef25"
 
   def install
     # 這一行就等同於你原本指令裡的：
