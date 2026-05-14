@@ -5,7 +5,7 @@ class DlMedia < Formula
   url "https://github.com/idolikechemistry/dl-media/releases/download/v0.2.9/dl-media-mac-arm64"
   version "0.2.9"
   
-  sha256 "8aafd4c49f77aeb8dc5ff1fad618d13568ddaa79b8772eef1b53fdfcc13cab47"
+  sha256 "2a1338252103d4783e833bd7437905f14f13e0580761a2f63a97d553dc73db93"
 
   def install
     # 這一行就等同於你原本指令裡的：
